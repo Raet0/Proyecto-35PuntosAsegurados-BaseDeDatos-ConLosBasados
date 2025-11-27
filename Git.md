@@ -61,3 +61,7 @@ Necesitamos tener instala una extensión en vscode para poder trabajar desde vsc
 
 Cada quien apenas clone o descargue el repo tendra que entrar en vscode y cambiar de rama a la propia ya que todos tendras los datos prinicipales del git principal.
 
+# Como subir cambios a cada una de sus ramas
+Solo debemos cambiar a nuestras rama y podremos ejecutar los siguente comando, porfavor asegurarse que estan en sus rama con "git branch" y si no estan se cambian con "git checkout (nombre-su-rama)"
+
+![subir-cambios](capturas/como-subir-cambios.png)
