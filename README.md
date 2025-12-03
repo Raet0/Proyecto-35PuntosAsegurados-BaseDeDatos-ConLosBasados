@@ -707,6 +707,22 @@ Segunda captura para verificar la forma de pago preferida por región
 
 ![verificación 2](capturas/capturas-informe/sistemaOLAP-funciona.png)
 
+# Como conectar a powerBi
+1. 
+Creamos un nueva hoja en blanco y le damos a opciones avanzadas y buscamos oracle:
+
+![inico](capturas/powerbi/inicio.png)
+
+2. 
+Seleccionamos oracle y nos saldra los siguente:
+
+![session](capturas/powerbi/session.png)
+
+Debemos poner localhost para que inicio con nuestro usuairo local y esto ya nos mostrara todas las tablas que tenemos para poer usar
+
+![entrada](capturas/powerbi/entrar.png)
+
+
 # Capturas de la tablas graficadas en powerBi
 
 ## Forma de Pago preferida
