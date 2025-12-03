@@ -705,4 +705,17 @@ Primer codigo de verificaión:
 
 Segunda captura para verificar la forma de pago preferida por región
 
-![verificación 2](capturas/capturas-informe/sistemaOLAP-funciona.png.png)
+![verificación 2](capturas/capturas-informe/sistemaOLAP-funciona.png)
+
+# Capturas de la tablas graficadas en powerBi
+
+## Forma de Pago preferida
+![forma de pago preferida](capturas/capturas-informe/Producto-MasVendido.png)
+## Mejor vendedor por categoria
+![El mejor vendedor de categoria](capturas/capturas-informe/PErsona-Mas-.png)
+## El mejor cliente
+![El mejor cliente](capturas/capturas-informe/Clientes-Mas.png)
+
+# Modeo usado(estrella)
+
+![modelo](capturas/capturas-informe/mode-estrekka.png)
